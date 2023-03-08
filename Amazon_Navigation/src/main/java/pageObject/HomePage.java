@@ -100,9 +100,4 @@ public class HomePage extends AbstractComponent{
 		Fashion.click();
 	}
 	
-	
-
-	
-
-	
 }
